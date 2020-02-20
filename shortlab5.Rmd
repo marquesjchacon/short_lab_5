@@ -33,7 +33,7 @@ Follow the instructions on Lecture Slides 7 (60 -- 68).
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
 
-[https://github.com/marquesjchacon/short_lab_5.git](https://github.com/marquesjchacon/short_lab_5.git)
+[https://github.com/marquesjchacon/short_lab_5](https://github.com/marquesjchacon/short_lab_5)
 
 Here's a checklist of what we should see at the link above:
 
